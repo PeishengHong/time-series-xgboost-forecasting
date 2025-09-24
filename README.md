@@ -10,7 +10,6 @@ The dataset used in this project is the "Hourly Energy Consumption" dataset, whi
 
 ## 🔧 Technologies
 
-- Python 3.x
 - XGBoost
 - Pandas
 - NumPy
