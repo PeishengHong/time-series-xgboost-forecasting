@@ -6,7 +6,7 @@ This project applies machine learning techniques to forecast hourly energy consu
 
 ## 📊 Dataset
 
-The dataset used in this project is the "Hourly Energy Consumption" dataset, which contains energy usage data recorded hourly. The data is publicly available on Kaggle and can be accessed here: [Hourly Energy Consumption Dataset](https://www.kaggle.com/datasets/robikscube/energy-consumption).
+The dataset used in this project is the "Hourly Energy Consumption" dataset, which contains energy usage data recorded hourly. The data is publicly available on Kaggle.
 
 ## 🔧 Technologies
 
