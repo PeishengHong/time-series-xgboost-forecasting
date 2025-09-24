@@ -1,18 +1,18 @@
 # Time Series Forecasting with XGBoost
 
-This repository contains a course project focused on time series forecasting using XGBoost. The project follows data preprocessing, feature engineering, model training, and evaluation steps to predict future values of a time series.
+## 📘 Overview
 
-## Project Overview
-- Load and explore time series data
-- Handle missing values and preprocess features
-- Perform feature engineering for time series forecasting
-- Train and tune XGBoost model
-- Evaluate model performance using appropriate metrics
+This project applies machine learning techniques to forecast hourly energy consumption using XGBoost. It covers data preprocessing, feature engineering, model training, and evaluation.
 
-## Libraries Used
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- xgboost
-- scikit-learn
+## 📊 Dataset
+
+The dataset used in this project is the "Hourly Energy Consumption" dataset, which contains energy usage data recorded hourly. The data is publicly available on Kaggle and can be accessed here: [Hourly Energy Consumption Dataset](https://www.kaggle.com/datasets/robikscube/energy-consumption).
+
+## 🔧 Technologies
+
+- Python 3.x
+- XGBoost
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
